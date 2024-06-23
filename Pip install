@@ -1,0 +1,5 @@
+pip install opencv-python
+pip install requests
+pip install python-telegram-bot
+pip install --upgrade python-telegram-bot
+pip install pyautogui
